@@ -59,7 +59,7 @@ THEN I can save my initials and score
 ---
 ## Links
 * Deployed Website: 
-* GitHub Repo: 
+* GitHub Repo: https://github.com/sgenesi/coding-quiz 
 
 ---
 ## Images
