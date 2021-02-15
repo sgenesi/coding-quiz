@@ -58,7 +58,7 @@ THEN I can save my initials and score
 
 ---
 ## Links
-* Deployed Website: 
+* Deployed Website: https://sgenesi.github.io/coding-quiz/ 
 * GitHub Repo: https://github.com/sgenesi/coding-quiz 
 
 ---
